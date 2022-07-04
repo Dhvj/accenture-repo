@@ -1,0 +1,6 @@
+Workshop on Git And Github
+Multiple Developrs are working on project
+Each team member have a local repository on their individual
+
+Appending new changes into the existing file
+Git maintain the different version of software which we develop
